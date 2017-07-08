@@ -1,5 +1,5 @@
 # Changelog
-Changelog of RLSH
+Changelog of RLSH, have a reverse-chronological order to find quickly the new releases
 ## Something about version numbers:
 The version number systems works like this:
 ```
